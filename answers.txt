@@ -3,6 +3,7 @@ Hello Local Madhav. I am GitHub Madhav.
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+The command 'git fetch' basically downloads the commits and files from a remote repository (like GitHub) to your local repository.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
