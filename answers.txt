@@ -7,4 +7,5 @@ The command 'git fetch' basically downloads the commits and files from a remote 
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
+Git is a version control system to manage source code history, while GitHub is a service that allows users to manage their git repositories.
 
